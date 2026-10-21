@@ -1,0 +1,8 @@
+com/mycompany/aitbank/NetSavingsAccount.class
+com/mycompany/aitbank/AitBank.class
+com/mycompany/aitbank/SavingsAccount.class
+com/mycompany/aitbank/ChequeAccount.class
+com/mycompany/aitbank/FixedAccount.class
+com/mycompany/aitbank/ATM.class
+com/mycompany/aitbank/testCommonAccountMethods.class
+com/mycompany/aitbank/Account.class
